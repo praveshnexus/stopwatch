@@ -5,4 +5,4 @@ If you click STOP and then START again, the timer will continue from the previou
 then use JavaScript to get the browser time, manipulate the content, replace it with the calculated time, 
 and provide the start, stop, and reset functionality.
 
-[Demo]()
+[Demo](https://praveshnexus.github.io/stopwatch/)
